@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOT2", "OOT2\OOT2.csproj", "{EA049BD8-AD76-448C-81C0-33FF890BCBAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA049BD8-AD76-448C-81C0-33FF890BCBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA049BD8-AD76-448C-81C0-33FF890BCBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA049BD8-AD76-448C-81C0-33FF890BCBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA049BD8-AD76-448C-81C0-33FF890BCBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
